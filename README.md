@@ -8,7 +8,7 @@ This is a sample Android Studio project that demonstrates how to use the Unsplas
 ## Getting Started
 To run this project, follow these steps:
 **Clone the repository:**
-git clone https://github.com/your-username/project-name.git
+git clone https://github.com/jigarpandya-dev/ImageLoading.git
 
 ## Open the project in Android Studio:
 - Launch Android Studio.
